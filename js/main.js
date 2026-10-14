@@ -105,8 +105,8 @@ const OFERTAS = [
   },
   {
     id: 2,
-    nombre: "Campana de quincho a medida",
-    descripcion: "Campana de quincho en zinc, fabricada según medidas del proyecto.",
+    nombre: "Cañón de combustión 1 metro",
+    descripcion: "Cañon de acero inoxidable de 5'' para combustión lenta",
     precio: "$89.900",
     precioAnterior: "$109.900",
     descuento: "-18%",
@@ -118,8 +118,8 @@ const OFERTAS = [
   },
   {
     id: 3,
-    nombre: "Cañón de combustión",
-    descripcion: "Cañón de combustión en acero, para estufas y calderas.",
+    nombre: "Cañón galvanizado para cocina a leña",
+    descripcion: "Cañón galvanizado para cocina de 4.5''.",
     precio: "$24.900",
     precioAnterior: "$29.900",
     descuento: "-17%",
@@ -131,8 +131,8 @@ const OFERTAS = [
   },
   {
     id: 4,
-    nombre: "Ducto de aire galvanizado",
-    descripcion: "Ducto de aire para ventilación y extracción, diámetro 4''.",
+    nombre: "Gorro de cocina o combustión lenta",
+    descripcion: "Gorro galvanizado para cocina o combustion lenta de 5''.",
     precio: "$15.900",
     precioAnterior: "$19.900",
     descuento: "-20%",
